@@ -38,9 +38,6 @@ Huge shoutout to our lovely contributors who help this project grow! 💖
 <a href="https://github.com/maryamshakeel22" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/151884542?v=4" width="80px;" alt="Maryam Shakeel"/>
 </a>
-<a href="https://github.com/hassanrj-3108" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/142681707?s=400&u=1e47fec6ef241f0def70b6878577e5e1d96abb7f&v=4" width="80px;" alt="Maryam Shakeel"/>
-</a>
 
 <!-- More contributors will be added here automatically as PRs are merged -->
 
